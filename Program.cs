@@ -1,7 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Inicializando...");
-
-Console.WriteLine("Hello, World!");
-
-Console.WriteLine("Finalizado.");
-
+﻿var exemploConsole = new ExemploConsole();
+exemploConsole.Executar();
